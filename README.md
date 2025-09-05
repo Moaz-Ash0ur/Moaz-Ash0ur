@@ -28,6 +28,11 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 - 🐱 Git & GitHub  
 - 🧰 Visual Studio  
 
+**Front-End Basics**  
+- 🌐 HTML, CSS  
+- ⚡ Bootstrap  
+- 💻 Basic knowledge for integrating with backend APIs  
+
 **Other Skills**  
 - 📡 API Design & Development  
 - 🛠️ 3-Tier Architecture
@@ -57,6 +62,7 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 - Role-based access control 
 - Student management
 - Handel Image
+  
 🔹 [**DVLD – Driver License Management System**](https://github.com/Moaz-Ash0ur/DVLD.git)  
 🪪 A Windows Forms application to manage driver license operations:  
 - Issue, renew, and replace driver licenses  
@@ -80,5 +86,5 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 
 ## 🤝 Let's Connect  
 - 📧 Email: devmoazmohammad@gmail.com  
-- 💼 LinkedIn:(https://www.linkedin.com/in/moaz-mohammad-010bab310/)  
+- 💼 LinkedIn: [Moaz-Ashour](https://www.linkedin.com/in/moaz-mohammad-010bab310/)  
 
