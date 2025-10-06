@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Moaz Mohammed  
 
-💻 Software Developer | Backend Enthusiast  
+💻 **Software Developer | Back-End Specialist**  
 
 ---
 
@@ -35,7 +35,6 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 
 **Other Skills**  
 - 📡 API Design & Development  
-- 🛠️ 3-Tier Architecture
 - 🛠️ N-Tier Architecture
 - 🧮 Data Structures & Algorithms  
 
@@ -43,7 +42,7 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 
 ## 📌 Featured Projects  
 
-- [**Shipping Management System**](https://github.com/Moaz-Ash0ur/Shipping-Management-System.git)  
+🔹 [**Shipping Management System**](https://github.com/Moaz-Ash0ur/Shipping-MVC-Web-Api-)  
   🚚 A logistics and shipment tracking system:  
   - Manage shipments, deliveries, and tracking statuses  
   - Assign drivers and routes dynamically  
