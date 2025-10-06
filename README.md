@@ -43,6 +43,13 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 
 ## 📌 Featured Projects  
 
+- [**Shipping Management System**](https://github.com/Moaz-Ash0ur/Shipping-Management-System.git)  
+  🚚 A logistics and shipment tracking system:  
+  - Manage shipments, deliveries, and tracking statuses  
+  - Assign drivers and routes dynamically  
+  - Warehouse and order integration  
+  - Built with **ASP.NET Core Web API** and **Entity Framework Core**
+
 🔹 [**E-Commerce Platform (MVC)**](https://github.com/Moaz-Ash0ur/E-Commerce-WebApp-MVC.git)  
 🛒 A full-featured online shopping platform built with ASP.NET Core MVC:  
 - Product & category management  
@@ -55,13 +62,7 @@ My journey started with desktop applications using **Windows Forms**, and now I�
 - Promotions, bonuses, and leaves  
 - Salary dashboard with statistics  
 - User management with roles  
-- Built with N-architecture & EF Core  
-
-🔹 [**Student Management System API**](https://github.com/Moaz-Ash0ur/Student-Management-API.git)  
-🎓 My **first project implementing a complete API** 
-- Role-based access control 
-- Student management
-- Handel Image
+- Built with N-architecture & EF Core
   
 🔹 [**DVLD – Driver License Management System**](https://github.com/Moaz-Ash0ur/DVLD.git)  
 🪪 A Windows Forms application to manage driver license operations:  
