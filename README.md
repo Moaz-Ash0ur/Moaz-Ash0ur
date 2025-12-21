@@ -1,13 +1,11 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
- <h1>👋 Moaz Mohammed </h1>  
+# Hi, I'm Moaz Mohammed
+### Software Engineer | .NET Backend Developer
 
 </div>
 
-### .NET Backend Developer
-
-<hr></hr>
+<hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Backend%20Tools-orange)
 
@@ -31,24 +29,38 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgrammingLanguages" : { "C#", "JavaScript" },
+    "ProgrammingLanguages" : { "C#", "C++" },
     "Database" : { "SQL Server", "SQLite" },
     "Frameworks" : { ".NET", "ASP.NET Core" },
     "ArchitecturePatterns" : { "Clean Architecture", "N-Tier"},
-    "Editors" : { "Visual Studio", "VS Code", "Sublime" },
+    "Editors" : { "Visual Studio", "VS Code" },
     "OtherTools" : { "Git", "Postman", "Swagger" }
   };
 }
 
+💡 What I do:
+- Design **RESTful APIs** with ASP.NET Core  
+- Apply **Clean Architecture** & **SOLID principles**  
+- Database design, relationships, and transactions (**SQL Server / EF Core**)  
+- Write **maintainable and testable code**  
+- Unit Testing & Mocking (**xUnit, Moq**)  
+- Implement **Authentication & Authorization** (**JWT**)  
+
+## 🛠️ Next Goals
+- **Docker** for containerization of applications  
+- **CI/CD Pipelines** (GitHub Actions / Azure DevOps)
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**   <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Practicing **Clean Architecture, N-Tier, and SOLID principles**  . <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**   <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always exploring **new backend tools and technologies**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Moaz Mohammead](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;Find me on LinkedIn: **[Moaz Mohammad](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**. <br>
 
-```
+
+---
+
+ I love **learning continuously**, exploring new technologies, and understanding the **inner workings of systems in depth**.  
+I believe that every project is an opportunity to **grow, improve, and write better code**.
+
 
 
 
