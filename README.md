@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Moaz Mohammed
+# Hello, I'm Moaz Mohammed
 ### Software Engineer | .NET Backend Developer
 
 </div>
@@ -52,13 +52,14 @@ class About extends Me {
 ```
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**   <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always exploring **new backend tools and technologies**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always up to date with **the latest advancements in the frameworks I work with**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;Find me on LinkedIn: **[Moaz Mohammad](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**. <br>
+- <img src="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; This is : **[My Resume](https://drive.google.com/file/d/1u0Nya9EJEOXn9vM-BO6yC_ChrLQSsECk/view)**. <br>
 
 
 ---
 
- I love **learning continuously**, exploring new technologies, and understanding the **inner workings of systems in depth**.  
+I love **learning continuously**, exploring new technologies, and understanding the **inner workings of systems in depth**.  
 I believe that every project is an opportunity to **grow, improve, and write better code**.
 
 
