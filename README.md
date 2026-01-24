@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hello, I'm Moaz Mohammed
-### Software Engineer | .NET Backend Developer
+# Hello, I'm Moaz Mohammad 👋
+### Software Engineer |  Backend .NET Developer
 
 </div>
 
@@ -41,21 +41,20 @@ class About extends Me {
 💡 What I do:
 - Design **RESTful APIs** with ASP.NET Core  
 - Apply **Clean Architecture** & **SOLID principles**  
+- Implement **Authentication & Authorization** (**JWT**)  
 - Database design, relationships, and transactions (**SQL Server / EF Core**)  
 - Write **maintainable and testable code**  
 - Unit Testing & Mocking (**xUnit, Moq**)  
-- Implement **Authentication & Authorization** (**JWT**)  
 
 ## 🛠️ Next Goals
 - **Docker** for containerization of applications  
 - **CI/CD Pipelines** (GitHub Actions / Azure DevOps)
 ```
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**   <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always up to date with **the latest advancements in the frameworks I work with**. <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**, passionate about backend development. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always staying up to date with **the latest advancements, best practices, and updates in the frameworks I work with**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;Find me on LinkedIn: **[Moaz Mohammad](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**. <br>
-- <img src="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; This is : **[My Resume](https://drive.google.com/file/d/1u0Nya9EJEOXn9vM-BO6yC_ChrLQSsECk/view)**. <br>
-
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Check out **[My Resume](https://drive.google.com/file/d/1u0Nya9EJEOXn9vM-BO6yC_ChrLQSsECk/view)**. <br>
 
 ---
 
