@@ -54,7 +54,7 @@ class About extends Me {
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**, passionate about backend development. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always staying up to date with **the latest advancements, best practices, and updates in the frameworks I work with**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;Find me on LinkedIn: **[Moaz Mohammad](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**. <br>
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Check out **[My Resume](https://drive.google.com/file/d/1u0Nya9EJEOXn9vM-BO6yC_ChrLQSsECk/view)**. <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Check out **[My Resume](https://drive.google.com/file/d/1fmqLOGOJOvnCB3fUu5cuKRkLe5eAHDBJ/view?usp=drive_link)**. <br>
 
 ---
 
