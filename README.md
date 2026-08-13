@@ -1,66 +1,190 @@
 <div align="center">
 
-# Hello, I'm Moaz Mohammad 👋
-### Software Engineer |  Backend .NET Developer
+# 👋 Hi, I'm Moaz Mohammad
+
+### 💻 Backend .NET Developer | Software Engineer
+
+**Building scalable, maintainable, and reliable backend systems with C# & .NET**
+
+<p>
+  <a href="https://github.com/">GitHub</a> •
+  <a href="https://www.linkedin.com/in/moazmohammad/">LinkedIn</a> •
+  <a href="https://drive.google.com/file/d/1wEm2vkaDryuLbnIHo2XjOJdoRWkoF20W/view?usp=sharing">Resume</a>
+</p>
 
 </div>
 
-<hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Backend%20Tools-orange)
+## 🚀 About Me
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-0078D4?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Unit Testing](https://img.shields.io/badge/Unit_Tests-007ACC?style=flat)
+I'm a **Backend .NET Developer** and **Software Development graduate** passionate about building reliable, maintainable, and scalable backend systems.
+
+I graduated with an **Excellent grade with Honors**, achieving **99% in my graduation project**.
+
+My main focus is **C# and .NET backend development**, with hands-on experience in **ASP.NET Core, Entity Framework Core, SQL Server, RESTful APIs, and software architecture**.
+
+I enjoy understanding how systems work internally, solving real-world problems, and continuously improving the quality of the software I build.
+
+- 💻 Specialized in **Backend Development with .NET**
+- 🏗️ Experienced with **Clean Architecture & 3-Tier Architecture**
+- 🔐 Implementing **Authentication & Authorization using JWT**
+- 🗄️ Designing databases, relationships, and transactions
+- 🧪 Writing **testable and maintainable code**
+- 🧠 Applying **SOLID principles & OOP**
+- 📚 Continuously learning **System Design, Docker, and modern backend practices**
 
 ---
 
-```dart
-// tools_I_use organized for Backend
+## 🛠️ Tech Stack
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "C#", "C++" },
-    "Database" : { "SQL Server", "SQLite" },
-    "Frameworks" : { ".NET", "ASP.NET Core" },
-    "ArchitecturePatterns" : { "Clean Architecture", "N-Tier"},
-    "Editors" : { "Visual Studio", "VS Code" },
-    "OtherTools" : { "Git", "Postman", "Swagger" }
-  };
-}
+### Backend
 
-💡 What I do:
-- Design **RESTful APIs** with ASP.NET Core  
-- Apply **Clean Architecture** & **SOLID principles**  
-- Implement **Authentication & Authorization** (**JWT**)  
-- Database design, relationships, and transactions (**SQL Server / EF Core**)  
-- Write **maintainable and testable code**  
-- Unit Testing & Mocking (**xUnit, Moq**)  
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
-## 🛠️ Next Goals
-- **Docker** for containerization of applications  
-- **CI/CD Pipelines** (GitHub Actions / Azure DevOps)
-```
+### Database
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently a **4th-year university student**, passionate about backend development. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Always staying up to date with **the latest advancements, best practices, and updates in the frameworks I work with**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;Find me on LinkedIn: **[Moaz Mohammad](https://www.linkedin.com/in/moaz-mohammad-010bab310/)**. <br>
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp; Check out **[My Resume](https://drive.google.com/file/d/1wEm2vkaDryuLbnIHo2XjOJdoRWkoF20W/view?usp=sharing)**. <br>
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Architecture & Principles
+
+<p>
+<img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3--Tier_Architecture-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_APIs-111111?style=for-the-badge"/>
+</p>
+
+### Tools & Testing
+
+<p>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Moq-111111?style=for-the-badge"/>
+</p>
 
 ---
 
-I love **learning continuously**, exploring new technologies, and understanding the **inner workings of systems in depth**.  
-I believe that every project is an opportunity to **grow, improve, and write better code**.
+I focus on:
 
+* 🔹 Designing **RESTful APIs** with ASP.NET Core
+* 🔹 Applying **SOLID principles** and clean coding practices
+* 🔹 Designing relational databases and handling complex relationships
+* 🔹 Implementing **Authentication & Authorization with JWT**
+* 🔹 Working with **EF Core & LINQ**
+* 🔹 Handling transactions and business rules
+* 🔹 Writing **unit-tested and maintainable code**
+* 🔹 Building systems using layered and clean architectures
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 [IUG Research Monitor](#) — Flagship Project
+
+An AI-powered platform designed to help undergraduate students improve the quality of their graduation research.
+
+- 👥 Adopted by **20+ students**
+- ⚡ Achieved **67% reduction in AI response latency** through performance optimization
+- 🤖 Integrated AI capabilities into the research workflow
+- 🏗️ Designed with scalability and maintainability in mind
+
+`ASP.NET Core` `EF Core` `AI Integration` `SQL Server`
+
+---
+### 🔧 [MechanicShop](#)
+
+A service management system for automotive workshops, designed to manage customers, vehicles, services, and workshop operations with real-time updates.
+
+- ⚡ Real-time communication using **SignalR**
+- 🏗️ Structured using **Clean Architecture**
+- 🔄 Designed to support real-time system updates
+
+`ASP.NET Core` `Clean Architecture` `SignalR` `EF Core`
+
+---
+
+### 🚚 [Shipping System](#)
+
+A shipping management platform featuring a multi-level role hierarchy and subscription-based access control.
+
+- 🔐 Implemented **Role-Based Authorization**
+- 👥 Designed a multi-level role hierarchy
+- 💳 Implemented access control based on **subscription tiers**
+- 🏗️ Structured the application for maintainability and extensibility
+
+`ASP.NET Core` `EF Core` `SQL Server` `Role-Based Authorization`
+
+---
+
+### 🏥 [Clinic Management System](#)
+
+A comprehensive clinic management system for managing patients, doctors, appointments, medical records, prescriptions, and payments.
+
+- 👨‍⚕️ Doctor and patient management
+- 📅 Appointment scheduling
+- 🩺 Medical records and prescriptions
+- 💳 Payment management
+- 🏗️ Implemented using **3-Tier Architecture**
+
+`C#` `ADO.NET` `SQL Server` `3-Tier Architecture`
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously expanding my backend engineering skills.
+
+### Next Focus
+
+* 🐳 **Docker & Containerization**
+* ⚙️ **CI/CD Pipelines**
+* 🔄 **GitHub Actions**
+* ☁️ **Azure**
+* 🏛️ **Advanced System Design**
+* 📈 **Scalable & Distributed Systems**
+
+---
+
+## 🧠 My Development Philosophy
+
+> **Don't just make it work. Understand why it works.**
+
+I believe that becoming a better software engineer isn't only about learning more technologies.
+
+It's about understanding **why a solution is designed a certain way**, knowing its trade-offs, and continuously improving the quality of the code and the systems we build.
+
+Every project is an opportunity to learn something new, solve a different problem, and become a better engineer.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+
+* 💼 Backend development opportunities
+* 🤝 Collaboration on interesting projects
+* 💡 Technical discussions
+* 📚 Learning from other developers
+* 🚀 Building meaningful software
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something great. 🚀**
+
+</div>
 
 
 
